@@ -1,0 +1,11 @@
+.Parent {
+    background-color: gold;
+    width: 100%;
+    padding: 8px;
+}
+
+.Child {
+    background-color: azure;
+    width: 100%;
+    padding: 5px;
+}
